@@ -1,0 +1,5 @@
+cp _config.yml.publish _config.yml
+jekyll build -d ~/GitHub/TheGlasgowSchoolOfTango/glasgowtangoschool.github.io
+cd ~/GitHub/TheGlasgowSchoolOfTango/glasgowtangoschool.github.io
+git commit -a -m "nm"
+git push

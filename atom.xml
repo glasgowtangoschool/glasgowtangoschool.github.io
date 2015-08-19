@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    
+
+    <title>The Glasgow School of Tango</title>
+    <generator uri="https://github.com/jekyll/jekyll">Jekyll v2.4.0</generator>
+		<icon>https://glasgowtangoschool.github.io/apple-touch-icon-precomposed.png</icon>
+    <subtitle>Authentic Tango in Glasgow Westend. Tango as danced in the Salons of Buenos Aires in the Golden Age. Leading tango school in Glasgow. Professionally run tango classes, longest running tango classes in Glasgow. Fun, quality classes with experienced teachers. Everyone enrols with a dance partner. No partner rotation.</subtitle>
+    <link href="https://glasgowtangoschool.github.io/atom.xml" rel="self"/>
+    <link href="https://glasgowtangoschool.github.io/" rel="alternate" type="text/html"/>
+    <updated>2015-08-19T20:01:26+01:00</updated>
+    <id>https://glasgowtangoschool.github.io/</id>
+    <author>
+			<name>Tango Tipica</name>
+			<uri>https://glasgowtangoschool.github.io/</uri>
+			<email>contact@tangotipica.info</email>
+		</author>
+
+    
+</feed>

@@ -1,0 +1,5 @@
+cp _config.yml.publish _config.yml
+jekyll build -d ~/GitHub/website/
+cd ~/GitHub/website
+git commit -a -m "$*"
+git push
